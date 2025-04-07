@@ -1,2 +1,2 @@
 # How to run
-Run the main.py in cmd promt
+Go in the 'Pomodoro App' folder and double-click on 'main.exe'
